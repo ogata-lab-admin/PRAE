@@ -1,0 +1,15 @@
+seed: 1
+test: 1
+epoch: 20000
+log_interval: 2500
+test_interval: 100
+learning_rate: 0.001
+batchsize: 50
+gpu_use_rate: 0.40
+L_dir: ../target/language_train
+B_dir: ../target/behavior_train
+V_dir: ../target/vision_train
+L_dir_test: ../target/language_test
+B_dir_test: ../target/behavior_test
+V_dir_test: ../target/vision_test
+save_dir: ./checkpoints/model

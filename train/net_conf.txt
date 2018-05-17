@@ -1,0 +1,8 @@
+L_num_units: 100
+L_num_layers: 1
+VB_num_units: 100
+VB_num_layers: 2
+S_dim: 100
+L_weight: 1.0
+B_weight: 1.0
+S_weight: 1.0
