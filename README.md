@@ -16,10 +16,10 @@ Paired Recurrent Autoencoders
 
 ## Example
 ```
-$ cd train/rae
-$ python ../../src/learn.py
+$ cd train
+$ python ../src/learn.py
 ```
-- learn.py: training a model.
-- generate.py: translate instructions to actions.
-- recognition.py: translate actions to descriptions.
-- extract.py: extract shared representations.
+- learn.py: trains a model.
+- generate.py: translates instructions to actions.
+- recognition.py: translates actions to descriptions.
+- extract.py: extracts shared representations.
